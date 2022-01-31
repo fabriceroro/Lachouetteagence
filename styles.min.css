@@ -1,8 +1,3 @@
-font-face {
-      font-display: swap;
-      src: url("/fonts/");
-
-}
 body {
     margin: 0;
     padding: 0;
@@ -826,11 +821,11 @@ h4 {
 }
 
 .bg-dots-bg {
-    background-image: url(img/dots-bg.png)
+    background-image: url(img/dots-bg.png);
 }
 
 .bg-lines-h2-bg {
-    background-image: url(img/lines-h2-bg.png)
+    background-image: url(img/lines-h2-bg.png);
 }
 
 .bg-banniere {
@@ -838,7 +833,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url(img/image-de-presentation.jpg)
+    background-image: url(img/image-de-presentation.jpg);
 }
 
 .text-footer {
